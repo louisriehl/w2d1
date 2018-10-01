@@ -10,7 +10,7 @@ function to1337 (html) {
   .replace(/t/g, '7')
   .replace(/ck/g, 'x')
   .replace(/er/g, '0r')
-  .replace(/you/g, 'j00');
+  .replace(/y0u/g, 'j00');
 
   console.log(leet);
 }
